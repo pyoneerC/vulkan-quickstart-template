@@ -1,0 +1,21 @@
+# ninja log v6
+1	50	7464036607084909	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	4be0a50363e92904
+1	50	7464036607084909	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	4be0a50363e92904
+51	24366	7464036850242261	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	3d85e143765bba9b
+51	24366	7464036850242261	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	3d85e143765bba9b
+24367	24467	7464036850282342	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	fd4c9951ad921882
+24367	24467	7464036850282342	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	fd4c9951ad921882
+24468	24508	7464036851648435	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	759d79572b60721a
+24468	24508	7464036851648435	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	759d79572b60721a
+24508	24545	7464036852033691	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	41f7785928426e9c
+24508	24545	7464036852033691	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	41f7785928426e9c
+24545	24583	7464036852409478	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	7808e2418b737d8b
+24545	24583	7464036852409478	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	7808e2418b737d8b
+24584	24622	7464036852794869	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	33da0211a46d528e
+24584	24622	7464036852794869	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	33da0211a46d528e
+24622	24660	7464036853175215	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	4077ab3e05a57e90
+24622	24660	7464036853175215	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	4077ab3e05a57e90
+24660	24710	7464036853670929	CMakeFiles/glfw-populate-complete	5641817cd43edc2a
+24660	24710	7464036853670929	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	5641817cd43edc2a
+24660	24710	7464036853670929	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	5641817cd43edc2a
+24660	24710	7464036853670929	D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	5641817cd43edc2a

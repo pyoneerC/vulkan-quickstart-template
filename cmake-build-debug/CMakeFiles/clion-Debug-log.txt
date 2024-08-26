@@ -1,0 +1,20 @@
+C:\Users\Usuario\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Usuario/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\OneDrive\Escritorio\desktop\sources\vulkan -B D:\OneDrive\Escritorio\desktop\sources\vulkan\cmake-build-debug
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Looking for dinput.h
+-- Looking for dinput.h - found
+-- Looking for xinput.h
+-- Looking for xinput.h - found
+-- Performing Test _GLFW_HAS_DEP
+-- Performing Test _GLFW_HAS_DEP - Success
+-- Performing Test _GLFW_HAS_ASLR
+-- Performing Test _GLFW_HAS_ASLR - Success
+-- Performing Test _GLFW_HAS_64ASLR
+-- Performing Test _GLFW_HAS_64ASLR - Success
+-- Using Win32 for window creation
+-- Found Vulkan: C:/VulkanSDK/1.3.290.0/Lib/vulkan-1.lib (found version "1.3.290") found components: glslc glslangValidator
+-- Configuring done (27.9s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/OneDrive/Escritorio/desktop/sources/vulkan/cmake-build-debug
